@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">New York Times</string>
+    <string name="dialog_title_details">Details</string>
+    <string name="dialog_btn_dismiss">Dismiss</string>
+</resources>
